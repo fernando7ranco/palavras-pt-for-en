@@ -20,7 +20,7 @@ Para envio de email, substitua os seguintes itens no arquivo .env :
 	MAIL_DRIVER=smtp
 	MAIL_HOST=smtp.gmail.com
 	MAIL_PORT=465
-	MAIL_USERNAME=thelesson.souza@gmail.com
+	MAIL_USERNAME=SEU_EMAIl
 	MAIL_PASSWORD=SUA_SENHA
 	MAIL_ENCRYPTION=ssl
   
