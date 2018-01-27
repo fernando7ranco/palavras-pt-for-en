@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'projeto@email.com'),
-        'name' => env('MAIL_FROM_NAME', 'DIFonary'),
+        'address' => env('MAIL_FROM_ADDRESS', 'projetos.devefranco@gmail.com'),
+        'name' => env('MAIL_FROM_NAME', 'PT For En'),
     ],
 
     /*
